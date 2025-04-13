@@ -3,19 +3,19 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-A command line README Generator that utilizes nodeJS
+A command line README Generator that utilizes Nodejs
 
 ## Installation
-once inside the repository, cd into the Develop folder and run node.index,js
+Once clone into the Repository, cd into the Develop folder and run node index.js
 
 ## Usage
-To create a README Generator from command line streamlining Repo setup
+To help streamline the process of creating a README file straight from the code editor
 
 ## Contributing
 n/a
 
 ## Tests
-see installation instructions
+See installation instructions
 
 ## License  
 This project is licensed under the MIT license.  
